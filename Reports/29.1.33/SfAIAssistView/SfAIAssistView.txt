@@ -1,0 +1,206 @@
+00:00 +0: loading D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart
+00:00 +0: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default chat
+00:00 +1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default chat
+00:01 +2: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request avatar
+00:02 +3: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request username
+00:03 +4: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable outgoing timestamp
+00:04 +5: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request avatar and reuestwidhfactor_1
+00:04 +6: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request avatar and widhfactor as 
+00:05 +7: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request timestamp and widhfactor 0.60
+00:06 +8: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content bubble color and requestwidhfactor 0.50
+00:06 +9: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  request messagetext style and widhfactor-40
+00:07 +10: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request avatar and widhfactor-30
+00:08 +11: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request width factor as 0.90
+00:08 +12: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color
+00:09 +13: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request_messagetextstyle
+00:09 +14: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color and messagetextstyle
+00:09 +15: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request_headertextstyle
+00:10 +16: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color header, message, textstyle
+00:10 +17: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response avatar
+00:11 +18: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response username
+00:11 +19: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response timestamp
+00:12 +20: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response avatar and reuestwidhfactor_1
+00:12 +21: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response avatar and widhfactor  
+00:13 +22: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response timestamp and widhfactor 0.60
+00:14 +23: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content bubble color and responsewidhfactor 0.50
+00:14 +24: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  response messagetext style and widhfactor-40
+00:15 +25: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response avatar and widhfactor-30
+00:16 +26: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response width factor as 0.90
+00:16 +27: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color
+00:16 +28: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response_messagetextstyle
+00:17 +29: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response bubble color and messagetextstyle
+00:17 +30: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response_headertextstyle
+00:17 +31: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response bubble color header, message, textstyle
+00:18 +32: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default bubble alignment - auto
+00:18 +33: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default bubble alignment - Start
+00:19 +34: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default bubble alignment - End
+00:20 +35: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color and bubble alignment - auto
+00:20 +36: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color and bubble alignment - Start
+00:21 +37: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : request bubble color and bubble alignment - End
+00:21 +38: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response bubble color and bubble alignment - auto
+00:21 +39: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response bubble color and bubble alignment - Start
+00:22 +40: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : response bubble color and bubble alignment - End
+00:23 +41: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Bubble customization
+00:23 +42: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (10,10,10,10,0.6)
+00:24 +43: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (10,10,40,50,0.6)
+00:25 +44: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (15,15,50,50,0.2)
+00:25 +45: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (25,25,25,25,0.4)
+00:26 +46: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (40,50,15,15,1.0)
+00:27 +47: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (50,50,50,50,1.0)
+00:28 +48: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Default bubble border radius (15,15,15,15,0.2)
+00:29 +49: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : bubble color and bubble border radius (15,25,40,50,0.2)
+00:30 +50: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : bubble color and bubble border radius (25,25,25,25,0.2)
+00:31 +51: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : bubble color and bubble border radius (15,15,15,15,0.2)
+00:31 +52: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : bubble color and bubble border radius (50,50,50,50,0.2)
+00:32 +53: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 10 
+00:33 +54: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 20 
+00:33 +55: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 40 
+00:34 +56: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 60 
+00:34 +57: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 80 
+00:35 +58: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : defaulravatar size and avatar padding 100.0 
+00:35 +59: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Disable request avatar size and avatar padding 10 
+00:36 +60: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Disable response avatar size and avatar padding 20 
+00:36 +61: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Disable request and response avatar, avatar size and avatar padding 20 
+00:37 +62: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  default content bubble padding 10 
+00:37 +63: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  default content bubble padding 20 
+00:38 +64: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  default content bubble padding 40 
+00:38 +65: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  default content bubble padding 60 
+00:38 +66: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  default content bubble padding 80 
+00:39 +67: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default content bubble padding 100 
+00:39 +68: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  request content bubble color content bubble padding 10 
+00:40 +69: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  response content bubble color content bubble padding 10 
+00:40 +70: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI :  request content bubble color content bubble padding 10 
+00:40 +71: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content and header padding 10 
+00:41 +72: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content and header padding 20 
+00:41 +73: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content padding 40 
+00:42 +74: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content padding 60 
+00:43 +75: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content padding 80 
+00:43 +76: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content and header padding 100 
+00:43 +77: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : timesstamp -d/M/y : hh:mm a
+00:44 +78: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : timesstamp - hh:mm a
+00:44 +79: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : timesstamp - HH:mm
+00:45 +80: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : timesstamp - d MMM, y
+00:45 +81: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request username timesstamp -d/M/y : hh:mm a
+00:46 +82: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request username timesstamp - hh:mm a
+00:46 +83: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request username timesstamp - HH:mm
+00:46 +84: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request username timesstamp - d MMM, y
+00:47 +85: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response username timesstamp -d/M/y : hh:mm a
+00:47 +86: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response username timesstamp - hh:mm a
+00:48 +87: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response username timesstamp - HH:mm
+00:48 +88: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable response username timesstamp - d MMM, y
+00:49 +89: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request and response username timesstamp -d/M/y : hh:mm a
+00:49 +90: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request_response username timesstamp - hh:mm a
+00:50 +91: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request_response username timesstamp - HH:mm
+00:50 +92: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request_response username timesstamp - d MMM, y
+00:50 +93: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable  request timesstamp - d MMM, y
+00:51 +94: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable  response timesstamp - d MMM, y
+00:51 +95: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : disable request_response timesstamp - d MMM, y
+00:52 +96: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 5.0
+00:52 +97: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 10.0
+00:53 +98: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 15.0
+00:53 +99: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 25.0
+00:53 +100: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 40.0
+00:54 +101: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and border radius- 50.0
+00:54 +102: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and disable composervisiblity
+00:55 +103: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Enable composer and disable actionbuttonvisiblity
+00:55 +104: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Disable composer and actionbuttonvisiblity
+00:55 +105: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : Place holder builder
+00:56 +106: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : avatar builder
+00:56 +107: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : header_builder
+00:57 +108: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : default_footer_builder
+00:57 +109: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 100
+00:58 +110: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 80
+00:58 +111: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 60
+00:59 +112: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 40
+01:00 +113: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 20
+01:00 +114: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : footer_builder and footer padding 10
+01:01 +115: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : content_bubble_builder
+01:01 +116: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : custom_shape_bubble_builder
+01:02 +117: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : composer_builder
+01:02 +118: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AI AssistView Customization UI : composer_builder
+01:03 +119: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView UI : default AssistView
+01:03 +120: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView UI : Enable placeholder UI
+01:03 +121: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : default AssistView
+01:03 +122: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : Add message
+01:03 +123: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : remove at First
+01:04 +124: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : remove at last
+01:04 +125: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : multiline
+01:04 +126: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView update UI : Clear message
+01:04 +127: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : default AssistView
+01:04 +128: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : Add message
+01:05 +129: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : remove at First
+01:05 +130: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : remove at last
+01:05 +131: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : load message
+01:05 +132: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : multiline
+01:05 +133: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Toolbar UI : Clear message
+01:06 +134: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : default AssistView
+01:06 +135: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 0 and item border radius as 30
+01:07 +136: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 2 and item border radius as 28
+01:08 +137: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 4 and item border radius as 26
+01:09 +138: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 6 and item border radius as 24
+01:10 +139: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 8 and item border radius as 22
+01:10 +140: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 10 and item border radius as 20
+01:11 +141: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 12 and item border radius as 18
+01:11 +142: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 14 and item border radius as 16
+01:12 +143: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 16 and item border radius as 14
+01:13 +144: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 18 and item border radius as 12
+01:13 +145: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 20 and item border radius as 10
+01:14 +146: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 22 and item border radius as 8
+01:14 +147: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 24 and item border radius as 6
+01:15 +148: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 26 and item border radius as 4
+01:16 +149: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 28 and item border radius as 2
+01:17 +150: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : Border radius 30 and item border radius as 0
+01:17 +151: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 31 and item padding as 1
+01:18 +152: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 29 and item padding as 3
+01:19 +153: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 27 and item padding as 5
+01:20 +154: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 25 and item padding as 7
+01:20 +155: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 23 and item padding as 9
+01:21 +156: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 21 and item padding as 11
+01:22 +157: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 19 and item padding as 13
+01:22 +158: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 17 and item padding as 15
+01:23 +159: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 15 and item padding as 17
+01:23 +160: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 13 and item padding as 19
+01:24 +161: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 11 and item padding as 21
+01:25 +162: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 9 and item padding as 23
+01:25 +163: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 7 and item padding as 25
+01:26 +164: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 5 and item padding as 27
+01:27 +165: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 3 and item padding as 29
+01:27 +166: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 1 and item padding as 31
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown while running async test code:
+Golden "golden_widget_test/base_image/aiassistview/suggestion/assistview_suggestion_padding_16.png":
+Pixel test failed, 8.08%, 38790px diff detected.
+Failure feedback can be found at
+/D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/failures
+
+When the exception was thrown, this was the stack:
+#0      LocalFileComparator.compare (package:flutter_test/src/_goldens_io.dart:108:5)
+<asynchronous suspension>
+#1      MatchesGoldenFile.matchAsync.<anonymous closure> (package:flutter_test/src/_matchers_io.dart:124:32)
+<asynchronous suspension>
+<asynchronous suspension>
+#3      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:123:26)
+<asynchronous suspension>
+<asynchronous suspension>
+#5      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:509:19)
+<asynchronous suspension>
+#6      assistviewsuggestion.<anonymous closure>.<anonymous closure> (file:///D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/golden_widget_test/aiassistview_sample/assistview_suggestion.dart:1352:5)
+<asynchronous suspension>
+#7      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:193:15)
+<asynchronous suspension>
+#8      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1064:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 3 frames from dart:async and package:stack_trace)
+
+The exception was caught asynchronously.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+01:28 +166 -1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: AssistView Suggestion : suggestion padding 1 and item padding as 31 [E]
+  Test failed. See exception logs above.
+  The test description was: suggestion padding 1 and item padding as 31
+  
+01:28 +166 -1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView composer : default AssistView actionbutton
+01:29 +167 -1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView composer : Enable cutom_composer 
+01:29 +168 -1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView actionbutton : default AssistView actionbutton
+01:29 +169 -1: D:/Testresult/flutter-chat/flutter_chat/syncfusion_flutter_chat/test/aiassistview_test.dart: Group: Default AI AssistView actionbutton : Enable assisviewdefaultui_actionbutton
+01:29 +170 -1: Some tests failed.

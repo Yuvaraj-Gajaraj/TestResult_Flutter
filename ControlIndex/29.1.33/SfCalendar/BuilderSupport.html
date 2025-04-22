@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='UTF-8'>
+    <title>BuilderSupport Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #007bff; color: white; }
+        .passed { color: green; font-weight: bold; }
+        .failed { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>BuilderSupport Test Cases</h2>
+    <p>Total Tests: 472, Passed: 461, Failed: 11</p>
+    <table>
+        <thead><tr><th>Test Case</th><th>Status</th></tr></thead>
+        <tbody>
+        <tr><td>Month cell with bg color</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with BG and text color</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with BG and padding</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with icon</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with different BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with lead and trail dates BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month cell with string</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule header with BG colors and padding</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule header with BG colors and padding</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule header with image</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule header with style</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Show Trailing Leading Dates</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Appointment Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>WorkWeek Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimeineDay Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Show Navigation Arrow</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Show Agenda</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Item Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Interval Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Interval Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>WorkWeek Interval Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>Work Week Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Time Interval</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Interval Width</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Interval Width</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Interval Width</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Interval Width</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Appointment Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Appointment Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Appointment Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Appointment Height</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>WorkWeek Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Add Remove Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Add Remove Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Add Remove Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Add Remove Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Add Remove Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>WorkWeek Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Reset Appointment [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>TimelineMonth Reset Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Reset Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Reset Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Reset Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Reset Resource [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>TimelineMonth Reset Resource</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder Day RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder Day RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder Week RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder Week RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder WorkWeek RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder WorkWeek RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder Month RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder Schedule RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder Schedule RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder TimelineDay RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder TimelineDay RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder TimelineWeek RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder TimelineWeek RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder TimelineWorkWeek RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder TimelineWorkWeek RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Builder TimelineMonth RTL</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Builder TimelineMonth RTL [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Mode [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Appointment Day BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Week BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment WorkWeek BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Month BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment Schedule BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment TimelineDay BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment TimelineWeek BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment TimelineWorkWeek BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Appointment TimelineMonth BG</td><td class='passed'>Passed</td></tr>
+        <tr><td>Day Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>WorkWeek Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>Month Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>Schedule Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineDay Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWeek Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineWorkWeek Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>TimelineMonth Appointment BG and TextStyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with None Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with Indicator Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with Appointment Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with None Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with Indicator Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with Appointment Mode</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with None</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with Indicator</td><td class='passed'>Passed</td></tr>
+        <tr><td>Cell builder with Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with None</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with Indicator</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL Cell builder with Appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week number with cell builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week number with text style in cell builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week number background color in cell builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>Week number rtl cell builder</td><td class='passed'>Passed</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>

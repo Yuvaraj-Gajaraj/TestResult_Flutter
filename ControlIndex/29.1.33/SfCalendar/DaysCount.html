@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='UTF-8'>
+    <title>DaysCount Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #007bff; color: white; }
+        .passed { color: green; font-weight: bold; }
+        .failed { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>DaysCount Test Cases</h2>
+    <p>Total Tests: 128, Passed: 128, Failed: 0</p>
+    <table>
+        <thead><tr><th>Test Case</th><th>Status</th></tr></thead>
+        <tbody>
+        <tr><td>DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 3 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 FDOW 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 FDOW 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - Days count seven FDOW 5 day View</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - Days count seven FDOW 5 day View</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- Days count seven FDOW 5 day View</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 1 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 7 in day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 1 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 1 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 1 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 1 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 1 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 6 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 7 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 7 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 7 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 FDOW 3 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 FDOW 5 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 FDOW 5 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - Days_count_seven_FDOW_5_week_view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - Days_count_seven_FDOW_5_week_view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- Days_count_seven_FDOW_5_week_view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 3 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 7 FDOW 3 in week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 FDOW 5 in workweek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 FDOW 5 in workweek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 FDOW 5 in workweek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 FDOW 5 in workweek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 FDOW 5 in workweek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 6 NWD Mon-Tue in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 6 NWD Mon-Tue in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 6 NWD Mon-Tue in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 6 NWD Mon-Tue in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 6 NWD Mon-Tue in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 NWD Wed-thurs-fri in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 NWD Wed-thurs-fri in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 7 NWD Wed-thurs-fri in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 7 NWD Wed-thurs-fri in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 7 NWD Wed-thurs-fri in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 5 in work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 5 FDOW 3 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 4 NWD Wed-thurs-fri FDOW 2 in workWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 3 in timeline day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 1 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL_DaysCount 7 in timelineDay view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 1 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 1 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 1 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 1 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 1 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 6 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 7 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 7 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 7 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 7 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 FDOW 3 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 FDOW 5 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 6 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 7 FDOW 3 in TimelineWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 FDOW 3 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 6 NWD Mon-Tue in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 7 NWD Wed-thurs-fri in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 NWD Wed-thurs-fri FDOW 2 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Backward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Backward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Forward - DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Second Forward- DaysCount 4 NWD Fri-Sat-Sun FDOW 4 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 5 FDOW 5 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        <tr><td>RTL DaysCount 4 NWD Wed-thurs-fri FDOW 2 in TimelineWorkWeek view</td><td class='passed'>Passed</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>

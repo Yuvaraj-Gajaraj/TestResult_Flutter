@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='UTF-8'>
+    <title>AI AssistView Customization UI Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #007bff; color: white; }
+        .passed { color: green; font-weight: bold; }
+        .failed { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>AI AssistView Customization UI Test Cases</h2>
+    <p>Total Tests: 119, Passed: 119, Failed: 0</p>
+    <table>
+        <thead><tr><th>Test Case</th><th>Status</th></tr></thead>
+        <tbody>
+        <tr><td>default chat</td><td class='passed'>Passed</td></tr>
+        <tr><td>default chat</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request avatar</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request username</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable outgoing timestamp</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request avatar and reuestwidhfactor_1</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request avatar and widhfactor as</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request timestamp and widhfactor 0.60</td><td class='passed'>Passed</td></tr>
+        <tr><td>content bubble color and requestwidhfactor 0.50</td><td class='passed'>Passed</td></tr>
+        <tr><td>request messagetext style and widhfactor-40</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request avatar and widhfactor-30</td><td class='passed'>Passed</td></tr>
+        <tr><td>request width factor as 0.90</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color</td><td class='passed'>Passed</td></tr>
+        <tr><td>request_messagetextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color and messagetextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>request_headertextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color header, message, textstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response avatar</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response username</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response timestamp</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response avatar and reuestwidhfactor_1</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response avatar and widhfactor</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response timestamp and widhfactor 0.60</td><td class='passed'>Passed</td></tr>
+        <tr><td>content bubble color and responsewidhfactor 0.50</td><td class='passed'>Passed</td></tr>
+        <tr><td>response messagetext style and widhfactor-40</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response avatar and widhfactor-30</td><td class='passed'>Passed</td></tr>
+        <tr><td>response width factor as 0.90</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color</td><td class='passed'>Passed</td></tr>
+        <tr><td>response_messagetextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>response bubble color and messagetextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>response_headertextstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>response bubble color header, message, textstyle</td><td class='passed'>Passed</td></tr>
+        <tr><td>default bubble alignment - auto</td><td class='passed'>Passed</td></tr>
+        <tr><td>default bubble alignment - Start</td><td class='passed'>Passed</td></tr>
+        <tr><td>default bubble alignment - End</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color and bubble alignment - auto</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color and bubble alignment - Start</td><td class='passed'>Passed</td></tr>
+        <tr><td>request bubble color and bubble alignment - End</td><td class='passed'>Passed</td></tr>
+        <tr><td>response bubble color and bubble alignment - auto</td><td class='passed'>Passed</td></tr>
+        <tr><td>response bubble color and bubble alignment - Start</td><td class='passed'>Passed</td></tr>
+        <tr><td>response bubble color and bubble alignment - End</td><td class='passed'>Passed</td></tr>
+        <tr><td>Bubble customization</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (10,10,10,10,0.6)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (10,10,40,50,0.6)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (15,15,50,50,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (25,25,25,25,0.4)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (40,50,15,15,1.0)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (50,50,50,50,1.0)</td><td class='passed'>Passed</td></tr>
+        <tr><td>Default bubble border radius (15,15,15,15,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>bubble color and bubble border radius (15,25,40,50,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>bubble color and bubble border radius (25,25,25,25,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>bubble color and bubble border radius (15,15,15,15,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>bubble color and bubble border radius (50,50,50,50,0.2)</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 40</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 60</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 80</td><td class='passed'>Passed</td></tr>
+        <tr><td>defaulravatar size and avatar padding 100.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Disable request avatar size and avatar padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>Disable response avatar size and avatar padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>Disable request and response avatar, avatar size and avatar padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 40</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 60</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 80</td><td class='passed'>Passed</td></tr>
+        <tr><td>default content bubble padding 100</td><td class='passed'>Passed</td></tr>
+        <tr><td>request content bubble color content bubble padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>response content bubble color content bubble padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>request content bubble color content bubble padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>content and header padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>content and header padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>content padding 40</td><td class='passed'>Passed</td></tr>
+        <tr><td>content padding 60</td><td class='passed'>Passed</td></tr>
+        <tr><td>content padding 80</td><td class='passed'>Passed</td></tr>
+        <tr><td>content and header padding 100</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm</td><td class='passed'>Passed</td></tr>
+        <tr><td>timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request username timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable response username timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm a</td><td class='passed'>Passed</td></tr>
+        <tr><td>mm</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request_response username timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable  request timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable  response timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>disable request_response timesstamp - d MMM, y</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 5.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 10.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 15.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 25.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 40.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and border radius- 50.0</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and disable composervisiblity</td><td class='passed'>Passed</td></tr>
+        <tr><td>Enable composer and disable actionbuttonvisiblity</td><td class='passed'>Passed</td></tr>
+        <tr><td>Disable composer and actionbuttonvisiblity</td><td class='passed'>Passed</td></tr>
+        <tr><td>Place holder builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>avatar builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>header_builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>default_footer_builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 100</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 80</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 60</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 40</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 20</td><td class='passed'>Passed</td></tr>
+        <tr><td>footer_builder and footer padding 10</td><td class='passed'>Passed</td></tr>
+        <tr><td>content_bubble_builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>custom_shape_bubble_builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>composer_builder</td><td class='passed'>Passed</td></tr>
+        <tr><td>composer_builder</td><td class='passed'>Passed</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>

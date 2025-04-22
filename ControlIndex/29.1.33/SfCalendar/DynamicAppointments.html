@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='UTF-8'>
+    <title>DynamicAppointments Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #007bff; color: white; }
+        .passed { color: green; font-weight: bold; }
+        .failed { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>DynamicAppointments Test Cases</h2>
+    <p>Total Tests: 273, Passed: 266, Failed: 7</p>
+    <table>
+        <thead><tr><th>Test Case</th><th>Status</th></tr></thead>
+        <tbody>
+        <tr><td>Add dynamic appointment 1</td><td class='passed'>Passed</td></tr>
+        <tr><td>Add dynamic appointment 2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Remove appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Reset appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week with Add dynamic appointment 1</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week with Add dynamic appointment 1 [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week with Add dynamic appointment 2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week with Add dynamic appointment 2 [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week - remove appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - remove appointment [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week - reset appointment</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - reset appointment [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Header hide scenario with hide empty schedule week - dynamic appointment for jan, feb, march scenario1</td><td class='passed'>Passed</td></tr>
+        <tr><td>Header hide scenario with hide empty schedule week - dynamic appointment for jan, feb, march scenario1 [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week - dynamic appointment for jan, feb, march, April scenario2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - display dynamic appointment for jan scenario2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - display dynamic appointment for feb scenario2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - display dynamic appointment for April scenario2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - reset dynamic appointment 10 to 5 for March Scenario2</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for jan first and last week add jan 3rd week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for jan first and last week add jan first week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for April first and last week add April 2nd week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for April first and last week add April last week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for feb first and second week remove feb first week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for feb first and second week remove feb first week dynamically scenario3 [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for feb first and second week remove feb second week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for May first and second week remove May first week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for May first and second week remove May first week dynamically scenario3 [E]</td><td class='failed'>Failed</td></tr>
+        <tr><td>Hide empty schedule week - add appointment for May first and second week remove May second week dynamically scenario3</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Month view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Timeline day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Timeline week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Timeline work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Timeline month view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Monthly Last day appointment in Schedule view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Month view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Timeline day view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Timeline week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Timeline work week view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Timeline month view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Yearly Last day appointment in Schedule view</td><td class='passed'>Passed</td></tr>
+        <tr><td>Min-max with add dynamic appointments</td><td class='passed'>Passed</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>

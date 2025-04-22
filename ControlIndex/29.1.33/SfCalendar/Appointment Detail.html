@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='UTF-8'>
+    <title>Appointment Detail Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #007bff; color: white; }
+        .passed { color: green; font-weight: bold; }
+        .failed { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Appointment Detail Test Cases</h2>
+    <p>Total Tests: 114, Passed: 114, Failed: 0</p>
+    <table>
+        <thead><tr><th>Test Case</th><th>Status</th></tr></thead>
+        <tbody>
+        <tr><td>normal appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal appointment on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern appointment on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence appointment on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence appointment on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern custom on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>normal meeting on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>pattern meeting on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>occurrence meeting on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>changed occurrence meeting on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern appointment on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on day</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on workweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on schedule</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on timelineday</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on timelineweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on timelineworkweek</td><td class='passed'>Passed</td></tr>
+        <tr><td>delete pattern meeting on timelinemonth</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly pattern appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly pattern appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly pattern appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly pattern appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly pattern meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly pattern meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly pattern meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly pattern meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly occurrence appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly occurrence appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly occurrence appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly occurrence appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly occurrence appointment on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly occurrence appointment on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly occurrence meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>weekly occurrence meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly occurrence meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>monthly occurrence meeting on month</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly occurrence meeting on week</td><td class='passed'>Passed</td></tr>
+        <tr><td>yearly occurrence meeting on month</td><td class='passed'>Passed</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
